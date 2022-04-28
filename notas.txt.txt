@@ -10,6 +10,13 @@ Pasos para subir cambios:
 git fetch
 git pull
 
+3
+Crear rama localmente
+git checkout -b <nombrerama>
+
+Subir rama a la nube
+git push --set-upstream origin <nombre-rama>
+
 
 
 
