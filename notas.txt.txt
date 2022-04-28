@@ -1,3 +1,5 @@
 Pasos para subir cambios:
 1. Preparar los archivos (Track) los archivos que queramos subir. 
 	Git add <nombreArchivo>
+	
+prueba
