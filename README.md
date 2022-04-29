@@ -2,4 +2,4 @@
 
 ## Probando git
 
-Esta es una de las clases de ==empresariales== :joy:
+:joy: :kissing: :sweat_smile: :stuck_out_tongue: :alien:
